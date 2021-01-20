@@ -20,7 +20,7 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -55,7 +55,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day17/PersonTest01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
+            <state relative-caret-position="387">
               <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
@@ -65,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day23/FileUtilsTest03.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+              <caret column="40" selection-start-column="40" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -212,55 +212,20 @@
               <item name="javaBase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="koala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="koala" type="462c0819:PsiDirectoryNode" />
-              <item name="javaBase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="koala" type="462c0819:PsiDirectoryNode" />
-              <item name="javaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="basicgrammar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="koala" type="462c0819:PsiDirectoryNode" />
-              <item name="javaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="basicgrammar" type="462c0819:PsiDirectoryNode" />
-              <item name="day17" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610884703405" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610884933674" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -406,8 +371,8 @@
       <item itemvalue="Application.ThreadTest08" />
       <item itemvalue="Application.ThreadTest01" />
       <item itemvalue="Application.SeasonTest01" />
-      <item itemvalue="JUnit.StringTest01.test1" />
       <item itemvalue="Application.PersonTest01" />
+      <item itemvalue="JUnit.StringTest01.test1" />
     </list>
     <recent_temporary>
       <list>
@@ -480,7 +445,8 @@
       <workItem from="1610540950242" duration="3346000" />
       <workItem from="1610547579718" duration="75000" />
       <workItem from="1610779701933" duration="11237000" />
-      <workItem from="1610884434059" duration="254000" />
+      <workItem from="1610884434059" duration="448000" />
+      <workItem from="1610884912731" duration="323000" />
     </task>
     <servers />
   </component>
@@ -517,11 +483,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277809000" />
+    <option name="totallyTimeSpent" value="278326000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Alibaba Cloud Explorer" order="0" />
       <window_info id="Designer" order="1" />
@@ -530,11 +495,11 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Web" order="6" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.2707889" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.27345416" />
       <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="0" />
       <window_info anchor="bottom" id="MyBatis Log" order="1" />
-      <window_info anchor="bottom" id="Messages" order="2" visible="true" weight="0.35791758" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.35791758" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Spring" order="4" />
       <window_info anchor="bottom" id="Java Enterprise" order="5" />
@@ -544,7 +509,7 @@
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.32819906" />
       <window_info anchor="bottom" id="Find" order="11" />
-      <window_info anchor="bottom" id="Debug" order="12" weight="0.36836404" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.36767897" />
       <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="14" />
       <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
@@ -955,7 +920,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day23/FileUtilsTest03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -964,7 +929,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day17/PersonTest01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
+        <state relative-caret-position="387">
           <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>

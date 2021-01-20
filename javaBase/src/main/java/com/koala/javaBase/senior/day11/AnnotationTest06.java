@@ -12,13 +12,13 @@ import java.util.ArrayList;
  */
 public class AnnotationTest06 {
 
-    class Generic<@MyAnnotations06 T>{
+    class Generic<@MyAnnotation06 T>{
 
-        public void show() throws @MyAnnotations06 RuntimeException{
+        public void show() throws @MyAnnotation06 RuntimeException{
 
-            ArrayList<@MyAnnotations06 String> list = new ArrayList<>();
+            ArrayList<@MyAnnotation06 String> list = new ArrayList<>();
 
-            int num = (@MyAnnotations06 int) 10L;
+            int num = (@MyAnnotation06 int) 10L;
         }
 
     }
