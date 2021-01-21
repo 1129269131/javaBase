@@ -35,7 +35,7 @@ public class GenericTest02 {
     @Test
     public void test2() {
         //使用泛型以后的写法
-        Comparator<User02> com = new Comparator<User02>() {
+        Comparator<User02> com = new Comparator<User02>() {//注意在java10之前匿名实现类的泛型不能省略，类型推断失效
             //按照年龄从小到大排列
             @Override
             public int compare(User02 o1, User02 o2) {
