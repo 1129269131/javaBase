@@ -7,7 +7,7 @@ import java.io.IOException;
  * Create by koala on 2020-12-26
  *
  * 方法重写的规则之一：
- * 子类重写的方法抛出的异常类型不大于父类被重写的方法抛出的异常类型
+ *  子类重写的方法抛出的异常类型不大于父类被重写的方法抛出的异常类型
  *
  */
 public class OverrideTest06 {

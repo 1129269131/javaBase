@@ -54,7 +54,7 @@ public class WrapperTest01 {
     }
 
     /*
-     * JDK 5.0 新特性：自动装箱 与自动拆箱
+     * JDK 5.0 新特性：自动装箱 与 自动拆箱
      */
     @Test
     public void test3(){

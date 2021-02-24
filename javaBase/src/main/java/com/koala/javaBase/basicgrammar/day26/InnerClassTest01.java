@@ -60,6 +60,7 @@ class Person{
         }
 
     }
+
     //非静态成员内部类
     class Bird{
         String name = "杜鹃";

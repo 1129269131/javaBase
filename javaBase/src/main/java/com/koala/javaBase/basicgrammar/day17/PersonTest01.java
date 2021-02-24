@@ -15,7 +15,7 @@ package com.koala.javaBase.basicgrammar.day17;
  *
  * 4.多态性的使用前提： ① 类的继承关系  ② 方法的重写
  *
- * 5.对象的多态性，只适用于方法，不适用于属性（编译和运行都看左边）
+ * 5.对象的多态性，只适用于方法，不适用于属性（属性：编译和运行都看左边）
  *
  */
 public class PersonTest01 {

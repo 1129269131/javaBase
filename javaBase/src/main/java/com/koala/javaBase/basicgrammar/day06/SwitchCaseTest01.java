@@ -3,7 +3,6 @@ package com.koala.javaBase.basicgrammar.day06;
 /**
  * Create by koala on 2020-11-18
  *
- * /*
  * 分支结构之二：switch-case
  *
  * 1.格式

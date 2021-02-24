@@ -40,7 +40,7 @@ public class AnimalTest01 {
 
 }
 
-class  Animal{
+class Animal{
 
     String name;
     private int age;

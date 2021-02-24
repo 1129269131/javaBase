@@ -60,7 +60,6 @@ public class SwitchCaseTest04 {
                 }else{
                     sumDays += 28;
                 }
-
             case 2:
                 sumDays += 31;
             case 1:

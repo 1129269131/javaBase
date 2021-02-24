@@ -4,9 +4,9 @@ package com.koala.javaBase.basicgrammar.day27;
  * Create by koala on 2020-12-25
  *
  * Error:
- * Java虚拟机无法解决的严重问题。
- * 如：JVM系统内部错误、资源耗尽等严重情况
- * 比如：StackOverflowError和OOM
+ *  Java虚拟机无法解决的严重问题
+ *  如：JVM系统内部错误、资源耗尽等严重情况
+ *  比如：StackOverflowError和OOM
  *
  * 一般不编写针对性的代码进行处理
  *

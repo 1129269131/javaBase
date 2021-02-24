@@ -29,7 +29,6 @@ public class SwitchCaseTest02 {
             case 10:
                 System.out.println("及格");
                 break;
-
         }
 
         //更优的解决方案：

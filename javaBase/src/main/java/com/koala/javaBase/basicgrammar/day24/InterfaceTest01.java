@@ -87,7 +87,6 @@ interface AA{
     void method1();
 }
 interface BB{
-
     void method2();
 }
 

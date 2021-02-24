@@ -43,7 +43,7 @@ class Flash implements USB{
 
     @Override
     public void start() {
-        System.out.println("U盘开启工作");
+        System.out.println("U盘开始工作");
     }
 
     @Override
@@ -57,7 +57,7 @@ class Printer implements USB{
 
     @Override
     public void start() {
-        System.out.println("打印机开启工作");
+        System.out.println("打印机开始工作");
     }
 
     @Override
