@@ -9,7 +9,7 @@ package com.koala.javaBase.senior.day01;
 public class ThreadTest02 {
 
     public static void main(String[] args) {
-        //创建Thread类的匿名子类的方式
+        //创建Thread类的匿名子类匿名对象的方式
         new Thread(){
             @Override
             public void run() {

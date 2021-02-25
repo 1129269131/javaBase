@@ -70,7 +70,6 @@ public class IteratorTest03 {
             if("Tom".equals(obj)){
                 iterator.remove();
             }
-
         }
         //遍历集合
         iterator = coll.iterator();

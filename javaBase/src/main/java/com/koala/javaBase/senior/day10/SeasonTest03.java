@@ -62,7 +62,6 @@ enum Season2 implements Info {
     private final String seasonDesc;
 
     //2.私有化类的构造器,并给对象属性赋值
-
     private Season2(String seasonName,String seasonDesc){
         this.seasonName = seasonName;
         this.seasonDesc = seasonDesc;
