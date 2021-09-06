@@ -31,6 +31,7 @@ public class GenericTest03 {
         //由于子类在继承带泛型的父类时，指明了泛型类型。则实例化子类对象时，不再需要指明泛型。
         sub1.setOrderT(1122);
 
+        //由于子类在继承带泛型的父类时，未指明泛型类型。则实例化子类对象时，需要指明泛型。
         SubOrder03_2<String> sub2 = new SubOrder03_2<>();
         sub2.setOrderT("order2...");
     }

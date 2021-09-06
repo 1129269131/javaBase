@@ -13,7 +13,7 @@ import java.util.List;
  * Collection接口中声明的方法
  *
  * 结论：
- * 向Collection接口的实现类的对象中添加数据obj时，要求obj所在类要重写equals()：使用contains()是用到
+ * 向Collection接口的实现类的对象中添加数据obj时，要求obj所在类要重写equals()：使用contains()时要用到
  *
  */
 public class CollectionTest02 {

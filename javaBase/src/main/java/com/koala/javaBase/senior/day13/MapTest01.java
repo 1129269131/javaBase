@@ -78,7 +78,7 @@ import java.util.Map;
  *
  *   添加、删除、修改操作：
  *   Object put(Object key,Object value)：将指定key-value添加到(或修改)当前map对象中
- *   void putAll(Map m):将m中的所有key-value对存放到当前map中
+ *   void putAll(Map m)：将m中的所有key-value对存放到当前map中
  *   Object remove(Object key)：移除指定key的key-value对，并返回value
  *   void clear()：清空当前map中的所有数据
  *

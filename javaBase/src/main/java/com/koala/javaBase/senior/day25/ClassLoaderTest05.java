@@ -32,7 +32,7 @@ public class ClassLoaderTest05 {
         System.out.println(classLoader3);
     }
 
-    //Properties：用来读取配置文件。
+    //Properties：用来读取配置文件
     @Test
     public void test2() throws Exception {
         Properties pros =  new Properties();
