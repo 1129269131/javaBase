@@ -9,9 +9,11 @@ package com.koala.javaBase.basicgrammar.day04;
  * 1. 位运算符操作的都是整型的数据
  * 2. << ：在一定范围内，每向左移1位，相当于 * 2
  *    >> :在一定范围内，每向右移1位，相当于 / 2
- *
- *
- *
+ * 3.
+ *    &：按位与，全一则一，否则为零
+ *    |：按位或，全0为0，否则为1
+ *    ^：按位异或，相同位0，否则为1、
+ *    ~：按位非，遇0则1，遇1则0
  * 面试题：最高效方式的计算2 * 8 ？  2 << 3  或 8 << 1
  */
 public class BitTest05 {
@@ -28,6 +30,8 @@ public class BitTest05 {
         System.out.println("m & n :" + (m & n));
         System.out.println("m | n :" + (m | n));
         System.out.println("m ^ n :" + (m ^ n));
+
+        System.out.println("~m    :" + ~m);
     }
 
 }

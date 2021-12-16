@@ -3,7 +3,6 @@ package com.koala.javaBase.basicgrammar.day05;
 /**
  * Create by koala on 2020-11-16
  *
- *
  * 如何从键盘获取不同类型的变量：需要使用Scanner类
  *
  * 具体实现步骤：

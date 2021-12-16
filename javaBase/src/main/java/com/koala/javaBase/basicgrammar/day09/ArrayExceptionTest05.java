@@ -13,7 +13,7 @@ public class ArrayExceptionTest05 {
 
     public static void main(String[] args) {
 
-        //1. 数组角标越界的异常：ArrayIndexOutOfBoundsExcetion
+        //1. 数组角标越界的异常：ArrayIndexOutOfBoundsException
         int[] arr = new int[]{1,2,3,4,5};
 
         /*for (int i = 0; i <= arr.length; i++) {

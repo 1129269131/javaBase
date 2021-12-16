@@ -12,7 +12,7 @@ import org.junit.jupiter.api.Test;
  *           一旦抛出对象以后，其后的代码就不再执行。
  *
  * 		关于异常对象的产生：① 系统自动生成的异常对象
- * 					        ② 手动的生成一个异常对象，并抛出（throw）
+ * 					     ② 手动的生成一个异常对象，并抛出（throw）
  *
  * 过程二："抓"：可以理解为异常的处理方式：① try-catch-finally  ② throws
  *

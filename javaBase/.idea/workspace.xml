@@ -5,20 +5,391 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49aad8f4-4b78-4539-96a6-e56c4a1cb733" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/javaBase.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_5__4_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day12/CollectionTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day12/CollectionTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day12/SetTest08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day12/SetTest08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day13/MapTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day13/MapTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day15/GenericTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day15/GenericTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day19/FileReaderWriterTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day19/FileReaderWriterTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day25/ClassLoaderTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day25/ClassLoaderTest05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day04/BitTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day04/BitTest05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day05/ScannerTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day05/ScannerTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day06/SwitchCaseTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day06/SwitchCaseTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day09/ArrayExceptionTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day09/ArrayExceptionTest05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day10/CustomerTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day10/CustomerTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day27/ExceptionTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day27/ExceptionTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/com.tjh.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/JavaBaseApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/JavaBaseApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day01/VariableTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day01/VariableTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day01/VariableTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day01/VariableTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day01/VariableTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day01/VariableTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day01/VariableTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day01/VariableTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day02/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day02/StringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day03/BinaryTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day03/BinaryTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day04/AriTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day04/AriTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day04/BitTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day04/BitTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day04/CompareTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day04/CompareTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day04/IfTest07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day04/IfTest07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day04/LogicTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day04/LogicTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day04/SanYuanTest06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day04/SanYuanTest06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day04/SetValueTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day04/SetValueTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day05/ScannerTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day05/ScannerTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day06/SwitchCaseTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day06/SwitchCaseTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day06/SwitchCaseTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day06/SwitchCaseTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day06/SwitchCaseTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day06/SwitchCaseTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day06/SwitchCaseTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day06/SwitchCaseTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day07/BreakContinueTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day07/BreakContinueTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day07/DoWhileTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day07/DoWhileTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day07/ForTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day07/ForTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day07/ForWhileTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day07/ForWhileTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day07/WhileTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day07/WhileTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day08/ArrayTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day08/ArrayTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day08/ArrayTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day08/ArrayTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day08/ArrayTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day08/ArrayTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day08/ArrayTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day08/ArrayTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day09/ArrayExceptionTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day09/ArrayExceptionTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day09/ArrayTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day09/ArrayTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day09/ArrayTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day09/ArrayTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day09/ArraysTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day09/ArraysTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day09/BubbleSortTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day09/BubbleSortTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/CustomerTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/CustomerTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/InstanceTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/InstanceTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/OOPTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/OOPTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/PersonTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/PersonTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/PhoneMall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/PhoneMall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/UserTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day10/UserTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day11/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day11/Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day11/MethodArgsTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day11/MethodArgsTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day11/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day11/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day11/OverLoadTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day11/OverLoadTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day11/ValueTransferTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day11/ValueTransferTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day11/ValueTransferTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day11/ValueTransferTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/AnimalTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/AnimalTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/CustomerTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/CustomerTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/Order02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/Order02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/OrderTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/OrderTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/PersonTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/PersonTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/UserTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12/UserTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12_01/OrderTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12_01/OrderTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12_01/SubOrder02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day12_01/SubOrder02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day13/PackageImportTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day13/PackageImportTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day13/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day13/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day13/PersonTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day13/PersonTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day14/Creature01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day14/Creature01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day14/ExtendsTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day14/ExtendsTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day14/Person01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day14/Person01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day14/Student01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day14/Student01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day15/Person01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day15/Person01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day15/PersonTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day15/PersonTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day15/Student01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day15/Student01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day16/InstanceTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day16/InstanceTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day16/Person01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day16/Person01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day16/Student01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day16/Student01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day16/SuperTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day16/SuperTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Animal1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Animal1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/AnimalTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/AnimalTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Cat1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Cat1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Dog1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Dog1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/InterviewTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/InterviewTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Man01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Man01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Person01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Person01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/PersonTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/PersonTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Sheep1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day17/Sheep1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day18/Man01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day18/Man01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day18/Person01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day18/Person01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day18/PersonTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day18/PersonTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day18/Woman01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day18/Woman01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day19/Customer02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day19/Customer02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day19/EqualsTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day19/EqualsTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day19/ObjectTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day19/ObjectTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day19/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day19/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day19/RewriteEquals02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day19/RewriteEquals02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day19/RewriteToString03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day19/RewriteToString03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day19/ToStringTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day19/ToStringTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day20/JUnitTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day20/JUnitTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day21/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day21/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day21/WrapperTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day21/WrapperTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/AA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/AA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/BB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/BB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/BlockTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/BlockTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/Chinese.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/Chinese.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/FinalTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/FinalTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/FinalTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/FinalTestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/MainTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/MainTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/OrderTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/OrderTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/StaticTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day22/StaticTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/AbstractTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/AbstractTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/AbstractTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/AbstractTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/Creature.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/Creature.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/Person1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/Person1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/PersonTest03$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/PersonTest03$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/PersonTest03$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/PersonTest03$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/PersonTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/PersonTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day23/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/AA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/AA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/BB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/BB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/Bullet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/Bullet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/CC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/CC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/Flash.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/Flash.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/Flyable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/Flyable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/InterfaceTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/InterfaceTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/Kite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/Kite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/Plane.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/Plane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/USB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/USB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/USBTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/USBTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/USBTest03$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/USBTest03$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/USBTest03$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/USBTest03$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/USBTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day24/USBTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day25/CompareA01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day25/CompareA01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day25/CompareB01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day25/CompareB01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day25/SubClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day25/SubClass1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day25/SubClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day25/SubClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day25/SubClassTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day25/SubClassTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day25/SuperClass01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day25/SuperClass01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/InnerClassTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/InnerClassTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/InnerClassTest02$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/InnerClassTest02$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/InnerClassTest02$1MyComparable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/InnerClassTest02$1MyComparable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/InnerClassTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/InnerClassTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/Person$1AA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/Person$1AA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/Person$1BB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/Person$1BB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/Person$1CC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/Person$1CC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/Person$Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/Person$Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/Person$Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/Person$Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day26/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/ErrorTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/ErrorTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/ExceptionTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/ExceptionTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/ExceptionTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/ExceptionTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/ExceptionTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/ExceptionTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/FinallyTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/FinallyTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/MyException08.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/MyException08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/MyExceptionTest08.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/MyExceptionTest08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/OverrideTest06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/OverrideTest06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/SubClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/SubClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/SuperClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/SuperClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/ThrowTest07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/basicgrammar/day27/ThrowTest07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/HelloThread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/HelloThread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/HelloThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/HelloThread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/HelloThread3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/HelloThread3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/HelloThread4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/HelloThread4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/HelloThread5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/HelloThread5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/MThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/MThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/MyThread01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/MyThread01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadMethodTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadMethodTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadMethodTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadMethodTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadMethodTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadMethodTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadMethodTest06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadMethodTest06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadMethodTest07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadMethodTest07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadTest02$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadTest02$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadTest02$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadTest02$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadTest08.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day01/ThreadTest08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/Window1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/Window1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/Window2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/Window2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/Window3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/Window3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/Window4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/Window4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/WindowTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/WindowTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/WindowTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/WindowTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/WindowTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/WindowTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/WindowTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day02/WindowTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day03/LockTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day03/LockTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day03/ThreadTest01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day03/ThreadTest01$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day03/ThreadTest01$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day03/ThreadTest01$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day03/ThreadTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day03/ThreadTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day03/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day03/Window.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/CommunicationTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/CommunicationTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/NumThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/NumThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/Number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/NumberThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/NumberThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/NumberThread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/NumberThread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/ThreadNewTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/ThreadNewTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/ThreadPoolTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/ThreadPoolTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/ThreadPoolTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day04/ThreadPoolTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/Person02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/Person02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringMethodTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringMethodTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringMethodTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringMethodTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringMethodTest06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringMethodTest06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringTest07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringTest07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringTest08.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day05/StringTest08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day06/StringBufferBuilderTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day06/StringBufferBuilderTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day06/StringBufferBuilderTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day06/StringBufferBuilderTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day07/DateTimeTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day07/DateTimeTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day07/DateTimeTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day07/DateTimeTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day07/DateTimeTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day07/DateTimeTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day07/DateTimeTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day07/DateTimeTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day08/CompareTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day08/CompareTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day08/CompareTest02$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day08/CompareTest02$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day08/CompareTest02$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day08/CompareTest02$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day08/CompareTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day08/CompareTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day08/Goods01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day08/Goods01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day09/OtherClassTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day09/OtherClassTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day09/OtherClassTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day09/OtherClassTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Season.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Season.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Season1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Season1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Season2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Season2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Season2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Season2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Season2$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Season2$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Season2$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Season2$4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Season2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/Season2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/SeasonTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/SeasonTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/SeasonTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/SeasonTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/SeasonTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day10/SeasonTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest03$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest03$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest03$Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest03$Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest04$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest04$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest05$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest05$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest06$Generic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest06$Generic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/AnnotationTest06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/Info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/MyAnnotation02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/MyAnnotation02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/MyAnnotation03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/MyAnnotation03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/MyAnnotation04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/MyAnnotation04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/MyAnnotation05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/MyAnnotation05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/MyAnnotation06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/MyAnnotation06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/MyAnnotations04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/MyAnnotations04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/MyAnnotations05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/MyAnnotations05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day11/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/CollectionTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/CollectionTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/CollectionTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/CollectionTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/ForTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/ForTest04.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/IteratorTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/IteratorTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/ListTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/ListTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/ListTest06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/ListTest06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/Person02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/Person02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/SetTest07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/SetTest07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/SetTest08.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/SetTest08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/SetTest09.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/SetTest09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/SetTest10$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/SetTest10$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/SetTest10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/SetTest10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/User07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/User07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/User10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day12/User10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/MapTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/MapTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/MapTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/MapTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/MapTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/MapTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/MapTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/MapTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/MapTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/MapTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/PropertiesTest07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/PropertiesTest07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/TreeMapTest06$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/TreeMapTest06$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/TreeMapTest06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/TreeMapTest06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/User06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day13/User06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day14/CollectionsTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day14/CollectionsTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day14/CollectionsTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day14/CollectionsTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/GenericTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/GenericTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/GenericTest02$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/GenericTest02$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/GenericTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/GenericTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/GenericTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/GenericTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/GenericTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/GenericTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/GenericTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/GenericTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/Order03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/Order03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/Order04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/Order04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/Order05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/Order05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/SubOrder03_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/SubOrder03_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/SubOrder03_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/SubOrder03_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/User02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day15/User02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day16/Customer01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day16/Customer01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day16/CustomerDAO01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day16/CustomerDAO01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day16/DAO01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day16/DAO01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day16/DAOTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day16/DAOTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day16/Student01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day16/Student01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day16/StudentDAO01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day16/StudentDAO01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day17/GenericTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day17/GenericTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day17/GenericTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day17/GenericTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day17/GenericTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day17/GenericTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day17/GenericTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day17/GenericTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day17/Person04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day17/Person04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day17/Student04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day17/Student04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day18/FileTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day18/FileTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day18/FileTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day18/FileTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day18/FileTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day18/FileTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day18/FileTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day18/FileTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day18/FileTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day18/FileTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day18/FileTest06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day18/FileTest06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day19/FileReaderWriterTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day19/FileReaderWriterTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day19/FileReaderWriterTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day19/FileReaderWriterTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day19/FileReaderWriterTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day19/FileReaderWriterTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day19/FileReaderWriterTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day19/FileReaderWriterTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day20/BufferedTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day20/BufferedTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day20/FileInputOutputStreamTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day20/FileInputOutputStreamTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day20/InputStreamReaderTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day20/InputStreamReaderTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day20/OtherStreamTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day20/OtherStreamTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day20/OtherStreamTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day20/OtherStreamTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day20/OtherStreamTest06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day20/OtherStreamTest06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day20/OtherStreamTest07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day20/OtherStreamTest07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day21/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day21/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day21/ObjectInputOutputStreamTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day21/ObjectInputOutputStreamTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day21/ObjectInputOutputStreamTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day21/ObjectInputOutputStreamTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day21/ObjectInputOutputStreamTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day21/ObjectInputOutputStreamTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day21/Person02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day21/Person02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day21/Person03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day21/Person03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day22/RandomAccessFileTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day22/RandomAccessFileTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day23/FileUtilsTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day23/FileUtilsTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day23/FilesTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day23/FilesTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day23/PathTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day23/PathTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day24/InetAddressTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day24/InetAddressTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day24/TCPTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day24/TCPTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day24/TCPTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day24/TCPTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day24/TCPTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day24/TCPTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day24/UDPTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day24/UDPTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day24/URLTest06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day24/URLTest06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day24/URLTest07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day24/URLTest07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day25/ClassLoaderTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day25/ClassLoaderTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day25/NewInstanceTest06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day25/NewInstanceTest06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day25/NewInstanceTest07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day25/NewInstanceTest07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day25/Person01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day25/Person01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day25/ReflectionTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day25/ReflectionTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day25/ReflectionTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day25/ReflectionTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day25/ReflectionTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day25/ReflectionTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/Creature01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/Creature01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/FieldTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/FieldTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/MethodTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/MethodTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/MyAnnotation01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/MyAnnotation01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/MyInterface01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/MyInterface01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/OtherTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/OtherTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/OtherTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/OtherTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/OtherTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/OtherTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/Person01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/Person01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/ReflectionTest06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/ReflectionTest06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/ReflectionTest07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/ReflectionTest07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/ReflectionTest08.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day26/ReflectionTest08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/ClothFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/ClothFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/Human1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/Human1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/HumanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/HumanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/MyInvocationHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/MyInvocationHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/MyInvocationHandler1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/MyInvocationHandler1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/NikeClothFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/NikeClothFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/ProxyClothFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/ProxyClothFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/ProxyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/ProxyFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/ProxyFactory1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/ProxyFactory1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/ProxyTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/ProxyTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/ProxyTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/ProxyTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/StaticProxyTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/StaticProxyTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/SuperMan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/SuperMan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/SuperMan1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/koala/javaBase/senior/day27/SuperMan1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -285,6 +656,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -322,24 +695,65 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="JUnit.AnnotationTest03.testGetAnnotation">
+  <component name="RunManager" selected="JUnit.FinallyTest04.test2">
+    <configuration name="SwitchCaseTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day06.SwitchCaseTest01" />
+      <module name="javaBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchCaseTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day06.SwitchCaseTest02" />
+      <module name="javaBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnnotationTest03.testGetAnnotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tjh" />
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionTest03.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaBase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.koala.javaBase.senior.day11.*" />
+          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.koala.javaBase.senior.day11" />
-      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.senior.day11.AnnotationTest03" />
-      <option name="METHOD_NAME" value="testGetAnnotation" />
+      <option name="PACKAGE_NAME" value="com.koala.javaBase.basicgrammar.day27" />
+      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day27.ExceptionTest03" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -347,7 +761,7 @@
       </method>
     </configuration>
     <configuration name="FinallyTest04.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tjh" />
+      <module name="javaBase" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day27.*" />
@@ -364,7 +778,7 @@
       </method>
     </configuration>
     <configuration name="FinallyTest04.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tjh" />
+      <module name="javaBase" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day27.*" />
@@ -374,40 +788,6 @@
       <option name="PACKAGE_NAME" value="com.koala.javaBase.basicgrammar.day27" />
       <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day27.FinallyTest04" />
       <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FinallyTest04.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tjh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.koala.javaBase.basicgrammar.day27" />
-      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day27.FinallyTest04" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringTest01.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tjh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.koala.javaBase.senior.day05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.koala.javaBase.senior.day05" />
-      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.senior.day05.StringTest01" />
-      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -438,20 +818,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.FinallyTest04.test2" />
-      <item itemvalue="JUnit.FinallyTest04.test1" />
-      <item itemvalue="JUnit.FinallyTest04.test3" />
-      <item itemvalue="JUnit.StringTest01.test1" />
-      <item itemvalue="JUnit.AnnotationTest03.testGetAnnotation" />
       <item itemvalue="Spring Boot.JavaBaseApplication" />
+      <item itemvalue="Application.SwitchCaseTest01" />
+      <item itemvalue="Application.SwitchCaseTest02" />
+      <item itemvalue="JUnit.ExceptionTest03.test1" />
+      <item itemvalue="JUnit.FinallyTest04.test1" />
+      <item itemvalue="JUnit.FinallyTest04.test2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AnnotationTest03.testGetAnnotation" />
-        <item itemvalue="JUnit.StringTest01.test1" />
-        <item itemvalue="JUnit.FinallyTest04.test3" />
-        <item itemvalue="JUnit.FinallyTest04.test1" />
         <item itemvalue="JUnit.FinallyTest04.test2" />
+        <item itemvalue="JUnit.FinallyTest04.test1" />
+        <item itemvalue="JUnit.ExceptionTest03.test1" />
+        <item itemvalue="Application.SwitchCaseTest02" />
+        <item itemvalue="Application.SwitchCaseTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -536,6 +916,11 @@
       <workItem from="1616567180120" duration="3151000" />
       <workItem from="1629859272569" duration="5466000" />
       <workItem from="1630910954126" duration="548000" />
+      <workItem from="1639214763938" duration="7548000" />
+      <workItem from="1639276630009" duration="3552000" />
+      <workItem from="1639396546645" duration="644000" />
+      <workItem from="1639577094576" duration="2652000" />
+      <workItem from="1639656096705" duration="6572000" />
     </task>
     <servers />
   </component>

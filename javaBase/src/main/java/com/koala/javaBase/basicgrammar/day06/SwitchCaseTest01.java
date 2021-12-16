@@ -31,7 +31,7 @@ package com.koala.javaBase.basicgrammar.day06;
  * ② break,可以使用在switch-case结构中，表示一旦执行到此关键字，就跳出switch-case结构
  *
  * ③ switch结构中的表达式，只能是如下的6种数据类型之一：
- *    byte 、short、char、int、枚举类型(JDK5.0新增)、String类型(JDK7.0新增)
+ *    byte、short、char、int、枚举类型(JDK5.0新增)、String类型(JDK7.0新增)
  *
  * ④ case 之后只能声明常量。不能声明范围。
  *
