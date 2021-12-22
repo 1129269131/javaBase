@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="49aad8f4-4b78-4539-96a6-e56c4a1cb733" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day05/StringTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/senior/day05/StringTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day04/BitTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day04/BitTest05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,56 +312,23 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="JUnit.StringTest01.test1">
+  <component name="RunManager" selected="Application.BitTest05">
+    <configuration name="BitTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day04.BitTest05" />
+      <module name="javaBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExceptionTest03.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaBase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.koala.javaBase.basicgrammar.day27" />
-      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day27.ExceptionTest03" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FinallyTest04.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaBase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.koala.javaBase.basicgrammar.day27" />
-      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day27.FinallyTest04" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -394,6 +361,23 @@
       <option name="PACKAGE_NAME" value="com.koala.javaBase.basicgrammar.day27" />
       <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day27.FinallyTest04" />
       <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBufferBuilderTest02.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaBase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.koala.javaBase.senior.day06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.koala.javaBase.senior.day06" />
+      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.senior.day06.StringBufferBuilderTest02" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -441,20 +425,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ExceptionTest03.test1" />
-      <item itemvalue="JUnit.FinallyTest04.test1" />
+      <item itemvalue="Application.BitTest05" />
       <item itemvalue="JUnit.FinallyTest04.test2" />
       <item itemvalue="JUnit.FinallyTest04.test3" />
-      <item itemvalue="Spring Boot.JavaBaseApplication" />
       <item itemvalue="JUnit.StringTest01.test1" />
+      <item itemvalue="JUnit.StringBufferBuilderTest02.test2" />
+      <item itemvalue="Spring Boot.JavaBaseApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BitTest05" />
+        <item itemvalue="JUnit.StringBufferBuilderTest02.test2" />
         <item itemvalue="JUnit.StringTest01.test1" />
         <item itemvalue="JUnit.FinallyTest04.test3" />
         <item itemvalue="JUnit.FinallyTest04.test2" />
-        <item itemvalue="JUnit.FinallyTest04.test1" />
-        <item itemvalue="JUnit.ExceptionTest03.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -546,6 +530,9 @@
       <workItem from="1639656096705" duration="9710000" />
       <workItem from="1639828005930" duration="742000" />
       <workItem from="1639830174831" duration="5868000" />
+      <workItem from="1639914187299" duration="3387000" />
+      <workItem from="1640004803596" duration="3091000" />
+      <workItem from="1640089252179" duration="3051000" />
     </task>
     <servers />
   </component>
