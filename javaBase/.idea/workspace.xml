@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="49aad8f4-4b78-4539-96a6-e56c4a1cb733" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day04/BitTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koala/javaBase/basicgrammar/day04/BitTest05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,14 +311,14 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.LogicTest04">
-    <configuration name="AriTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day04.AriTest01" />
+  <component name="RunManager" selected="Application.ValueTransferTest03">
+    <configuration name="ArrayTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day09.ArrayTest01" />
       <module name="javaBase" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day04.*" />
+          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,13 +326,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day04.LogicTest04" />
+    <configuration name="ArrayTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day08.ArrayTest02" />
       <module name="javaBase" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day04.*" />
+          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,13 +340,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day02.StringTest" />
+    <configuration name="ArraysTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day09.ArraysTest04" />
       <module name="javaBase" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day02.*" />
+          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,13 +354,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day01.VariableTest03" />
+    <configuration name="ForTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day07.ForTest01" />
       <module name="javaBase" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day01.*" />
+          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -369,13 +368,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day01.VariableTest04" />
+    <configuration name="ValueTransferTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.koala.javaBase.basicgrammar.day11.ValueTransferTest03" />
       <module name="javaBase" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day01.*" />
+          <option name="PATTERN" value="com.koala.javaBase.basicgrammar.day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -389,13 +388,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -424,20 +425,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ForTest01" />
+      <item itemvalue="Application.ArrayTest02" />
+      <item itemvalue="Application.ArrayTest01" />
+      <item itemvalue="Application.ArraysTest04" />
       <item itemvalue="Spring Boot.JavaBaseApplication" />
-      <item itemvalue="Application.VariableTest03" />
-      <item itemvalue="Application.VariableTest04" />
-      <item itemvalue="Application.StringTest" />
-      <item itemvalue="Application.AriTest01" />
-      <item itemvalue="Application.LogicTest04" />
+      <item itemvalue="Application.ValueTransferTest03" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LogicTest04" />
-        <item itemvalue="Application.AriTest01" />
-        <item itemvalue="Application.StringTest" />
-        <item itemvalue="Application.VariableTest04" />
-        <item itemvalue="Application.VariableTest03" />
+        <item itemvalue="Application.ValueTransferTest03" />
+        <item itemvalue="Application.ArraysTest04" />
+        <item itemvalue="Application.ArrayTest01" />
+        <item itemvalue="Application.ArrayTest02" />
+        <item itemvalue="Application.ForTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -567,7 +568,8 @@
       <workItem from="1665931400382" duration="631000" />
       <workItem from="1681014482160" duration="682000" />
       <workItem from="1690086047374" duration="734000" />
-      <workItem from="1715158709564" duration="1992000" />
+      <workItem from="1715158709564" duration="5919000" />
+      <workItem from="1715241902145" duration="2037000" />
     </task>
     <servers />
   </component>
