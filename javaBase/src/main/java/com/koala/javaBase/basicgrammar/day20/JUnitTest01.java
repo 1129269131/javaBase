@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
  * 步骤：
  * 1.导入JUnit包
  * 2.创建Java类，进行单元测试
- *   此时的Java类要求：① 此类是public的 ②此类提供公共的无参的构造器
+ *   此时的Java类要求：①此类是public的 ②此类提供公共的无参的构造器
  * 3.此类中声明单元测试方法
  *   此时的单元测试方法：方法的权限是public,没有返回值，没有形参
  *
