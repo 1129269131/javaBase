@@ -50,7 +50,7 @@ import java.util.Date;
  * 6. jdk8 中注解的新特性：可重复注解、类型注解
  *
  *   6.1 可重复注解：① 在MyAnnotation05上声明@Repeatable，成员值为MyAnnotations05.class
- *                   ② MyAnnotation05的Target和Retention等元注解与MyAnnotations05相同
+ *                 ② MyAnnotation05的Target和Retention等元注解与MyAnnotations05相同
  *
  *   6.2 类型注解：
  *      ElementType.TYPE_PARAMETER 表示该注解能写在类型变量的声明语句中（如：泛型声明）。

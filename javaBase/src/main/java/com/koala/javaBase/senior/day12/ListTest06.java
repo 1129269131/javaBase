@@ -30,7 +30,7 @@ import java.util.List;
  * 长度：size()
  * 遍历： ① Iterator迭代器方式
  *       ② 增强for循环
- *      ③ 普通的循环
+ *       ③ 普通的循环
  *
  */
 public class ListTest06 {

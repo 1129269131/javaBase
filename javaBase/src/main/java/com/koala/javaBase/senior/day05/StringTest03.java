@@ -41,7 +41,7 @@ public class StringTest03 {
     public void test2(){
         String s1 = "javaEEhadoop";
 
-        final String s2 = "javaEE";//s4:常量
+        final String s2 = "javaEE";//s2:常量
         String s3 = s2 + "hadoop";
         System.out.println(s1 == s3);//true
     }

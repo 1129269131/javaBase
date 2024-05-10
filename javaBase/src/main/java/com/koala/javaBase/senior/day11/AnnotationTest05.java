@@ -4,7 +4,7 @@ package com.koala.javaBase.senior.day11;
  * Create by koala on 2021-01-02
  *
  *  jdk8 可重复注解：① 在MyAnnotation05上声明@Repeatable，成员值为MyAnnotations05.class
- *                   ② MyAnnotation05的Target和Retention等元注解与MyAnnotations05相同
+ *                 ② MyAnnotation05的Target和Retention等元注解与MyAnnotations05相同
  *
  */
 public class AnnotationTest05 {
